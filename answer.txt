@@ -1,0 +1,5 @@
+Con il comando
+
+git reset --hard HEAD^
+
+Si ritorna alla commit precedente (da "Add script.js" a "gitignore .txt")
